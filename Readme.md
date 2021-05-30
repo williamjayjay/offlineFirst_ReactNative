@@ -1,7 +1,6 @@
-## Bootcamp Node, ReactJS, ReactNative
+## Teste React Native - Offline First
 
-Olá amigos este repo é referente ao bootcamp da ROCKETSEAT onde o foco é node, react e react native, aqui teremos todo o backend e frontend das aplicações desenvolvidas.
 
-<h1 align="center">Bootcamp-11</h1>
+<h1 align="center">OFFLINE FIRST</h1>
 
 ## Mobile 🔨🔨🔨 Em breve...
